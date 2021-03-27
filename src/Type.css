@@ -1,0 +1,57 @@
+
+
+.type_body{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.type_body>form{
+    flex: 1;
+    display: flex;
+    
+}
+
+
+.type_body>form>input{
+    flex: 1;
+    border-radius: 20px;
+    padding: 5px;
+    border-radius: 10px;
+    border-width: 5px;
+    border-color: #00BCD4;
+    border-style: inset;
+
+    
+}
+
+.type_body>form>button{
+    display: none;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

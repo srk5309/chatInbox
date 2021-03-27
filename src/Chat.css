@@ -1,0 +1,150 @@
+.chat{
+    flex: 1;
+    background:#ECEFF1;
+    background-repeat: repeat;
+    background-position: center;
+    overflow: scroll;
+    padding: 30px;
+    border-radius: 10px;
+    border-width: 5px;
+    border-color: #00BCD4;
+    border-style: inset;
+    border-top: none;
+}
+.chat_msg{
+    position: relative;
+    font-size: 16px;
+    background-color:white;
+    padding: 10px;
+    border-radius: 10px;
+
+    width: fit-content;
+    margin-bottom: 30px;
+
+    border-radius: 10px;
+    border-width: 5px;
+    border-color: #00BCD4;
+    border-bottom-style: inset;
+    
+}
+
+.chat_name{
+    position: absolute;
+    top: -15px;
+    color: gray;
+    font-size: x-small;
+    font-weight: 800;
+}
+
+.chat_time{
+    margin-left: 10px;
+    font-size: xx-small;
+    position: relative;
+    top: 10px;
+    
+}
+
+.chat_receive{
+    
+    margin-left: auto;
+    background: #80DEEA;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
